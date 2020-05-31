@@ -1,0 +1,731 @@
+cost_of_living,freedom_of_speech,friendly_to_foreigners,fun,happiness,healthcare,internet,nightlife,peace,quality_of_life,safety,traffic_safety,walkability,nomad_score,region,country,place_slug
+3,1,3,3,3,2,16,3,2,3,1,4,4,4.03,Latin America,Mexico,mexico-city-mexico
+3,1,3,4,3,2,10,3,2,3,2,4,4,4.51,Latin America,Mexico,cancun-mexico
+3,1,4,2,2,2,5,2,1,3,3,1,1,4.45,Middle East,Jordan,amman-jordan
+3,1,2,3,1,1,18,3,2,3,3,3,4,4.83,Asia,Vietnam,ho-chi-minh-saigon-vietnam
+1,1,2,4,2,1,44,4,2,3,3,3,4,4.11,Asia,China,hong-kong-china
+3,1,1,1,2,1,6,1,2,3,3,3,4,3.52,Asia,China,zhuhai-china
+3,1,3,2,3,1,19,3,1,3,3,1,2,4.54,Asia,Thailand,phuket-thailand
+3,1,3,2,3,3,16,2,2,3,3,1,4,4.45,Asia,Malaysia,kuala-lumpur-malaysia
+3,1,3,2,1,1,4,1,1,3,2,4,2,3.9,Asia,Cambodia,phnom-penh-cambodia
+3,1,2,2,1,1,12,2,1,3,2,3,4,3.25,Asia,India,chennai-india
+3,1,1,1,1,1,8,2,1,2,2,3,4,3.5,Asia,India,jaipur-india
+3,1,3,3,1,1,4,2,1,2,2,3,4,3.69,Asia,India,agra-india
+3,1,3,2,1,1,8,2,1,2,2,3,2,3.26,Asia,India,delhi-india
+3,1,3,2,1,1,8,2,1,2,2,3,4,3.63,Asia,India,mumbai-india
+3,1,2,2,2,1,15,2,2,3,3,3,4,4.25,Asia,China,shenzhen-china
+1,2,3,3,3,3,31,2,3,3,2,4,4,4.34,North America,United States,washington-dc-united-states
+1,2,3,3,3,3,17,2,3,3,3,4,4,4.3,North America,United States,madison-wi-united-states
+1,2,2,3,3,3,19,2,3,3,3,4,4,4.15,North America,United States,boston-ma-united-states
+1,1,3,3,3,1,13,2,3,2,4,4,4,4.02,Middle East,United Arab Emirates,dubai-united-arab-emirates
+2,1,2,3,3,4,101,2,3,3,4,4,4,4.45,Asia,Singapore,singapur-singapore
+1,2,4,3,3,2,21,3,3,3,4,4,4,3.68,Europe,United Kingdom,glasgow-united-kingdom
+1,2,3,3,3,2,36,3,3,3,4,4,4,4.02,Europe,United Kingdom,edinburgh-united-kingdom
+2,3,2,2,3,3,60,2,4,3,3,4,1,4.14,Europe,Belgium,leuven-belgium
+2,3,3,3,3,3,28,3,4,3,4,4,4,4.53,Europe,Germany,berlin-germany
+2,3,2,2,3,3,43,2,4,3,2,4,4,4.14,Europe,Belgium,brussels-belgium
+3,2,4,3,2,3,27,3,3,3,4,4,4,4.33,Europe,Poland,gdansk-poland
+3,1,3,2,2,1,10,2,1,3,2,1,2,4.14,Latin America,Ecuador,quito-ecuador
+3,1,3,3,2,1,6,1,1,3,2,1,4,3.64,Latin America,Ecuador,cuenca-ecuador
+3,1,2,2,2,1,10,2,1,3,2,1,2,4.05,Latin America,Ecuador,guayaquil-ecuador
+3,1,2,2,3,3,9,2,1,3,1,3,4,3.53,Latin America,Colombia,pasto-colombia
+3,1,4,2,3,3,10,2,1,3,1,3,4,3.86,Latin America,Colombia,cali-colombia
+3,1,3,3,3,3,8,3,1,3,1,3,4,4.49,Latin America,Colombia,medellin-colombia
+3,1,2,2,3,3,7,1,1,3,1,3,4,3.82,Latin America,Colombia,santa-marta-colombia
+3,1,2,2,3,3,7,3,1,3,1,3,4,4.12,Latin America,Colombia,barranquilla-colombia
+3,1,4,4,3,3,9,3,1,3,1,3,4,3.88,Latin America,Colombia,cartagena-colombia
+3,1,4,3,3,3,7,2,1,3,1,3,4,4.03,Latin America,Colombia,bogota-colombia
+1,4,3,3,4,3,41,3,4,3,4,4,4,4.33,Europe,Denmark,copenhagen-denmark
+1,3,3,3,3,3,42,2,4,3,3,4,4,3.77,Europe,Belgium,ghent-belgium
+3,2,2,2,2,3,29,2,3,3,3,4,4,4.089206639,Europe,Poland,poznan-poland
+3,1,1,2,3,2,16,2,2,3,1,4,1,3.54,Latin America,Mexico,tulum-mexico
+3,2,3,4,2,3,28,3,3,3,4,4,4,4.11,Europe,Poland,warsaw-poland
+1,3,2,3,3,4,29,3,3,3,3,4,4,4.029474577,Europe,Spain,barcelona-spain
+3,1,3,2,3,1,21,1,1,3,2,1,2,3.75,Asia,Thailand,ko-tao-thailand
+3,1,3,2,3,1,21,2,1,3,2,1,1,3.62,Asia,Thailand,ko-pha-ngan-thailand
+3,1,3,3,1,1,22,2,2,3,3,3,4,4.24,Asia,Vietnam,hoi-an-vietnam
+3,1,3,3,3,1,20,2.045612614,1,3,3,1,4,4.97,Asia,Thailand,chiang-mai-thailand
+3,1,3,2,3,1,18,1,1,3,3,1,1,3.49,Asia,Thailand,ko-lanta-thailand
+3,1,3,3,3,1,19,4,1,3,3,1,4,4.9,Asia,Thailand,bangkok-thailand
+3,1,3,3,2,2,9,1,2,3,3,3,4,4.4,Asia,Indonesia,ubud-bali-indonesia
+2,3,3,3,2,4,30,3,4,3,4,4,4,4.46,Europe,Portugal,lisbon-portugal
+1,3,2,2,3,4,46,3,4,3,4,4,4,3.94,Europe,Ireland,dublin-ireland
+2,2,3,3,3,2,31,3,3,3,3,4,4,4.16,Europe,United Kingdom,manchester-united-kingdom
+1,3,4,2,4,3,19,1,4,3,4,4,4,4.38,Oceania,Australia,sydney-australia
+1,2,3,3,3,3,36,2,3,3,3,4,4,4.29,North America,United States,san-diego-ca-united-states
+1,3,3,3,4,3,37,3,4,3,3,4,4,4.47,Europe,Sweden,stockholm-sweden
+1,4,3,3,4,4,36,2,4,3,4,4,1,3.89,Europe,Norway,oslo-norway
+1,4,3,3,4,4,38,3,4,3,4,4,4,4.25,Europe,Norway,tromso-norway
+1,2,3,3,3,3,15,2,3,3,3,4,4,4.39,North America,United States,fort-lauderdale-fl-united-states
+1,2,4,4,3,3,41,2,3,3,3,4,4,4.36,North America,United States,portland-or-united-states
+1,3,3,4,3,3,33,3,4,3,4,4,4,3.8,Europe,Germany,hamburg-germany
+2,3,3,2,3,3,33,2,4,3,4,4,4,4.31,Europe,Germany,bremen-germany
+2,3,3,2,3,4,38,3,4,3,4,4,4,4.32,Europe,Austria,vienna-austria
+3,3,2,2,3,2,42,2,3,3,3,4,4,4.17,Europe,Slovakia,bratislava-slovakia
+2,2,2,3,2,2,37,3,3,3,3,4,4,4.93,Europe,Hungary,budapest-hungary
+1,3,3,2,4,4,30,2,4,3,4,4,2,4.02,Europe,Iceland,reykjavik-iceland
+1,2,4,4,3,3,20,4,3,3,3,4,4,4.61,North America,United States,new-york-city-ny-united-states
+1,2,3,2,3,3,15,2,3,3,3,4,4,3.69,North America,United States,orlando-fl-united-states
+3,1,3,2,3,1,22,2,1,3,2,1,4,3.65,Asia,Thailand,krabi-thailand
+1,3,4,3,3,3,29,4,4,3,4,4,4,3.95,Europe,Germany,munich-germany
+1,4,4,3,4,4,9,3,4,3,4,4,4,4.44,Europe,Netherlands,amsterdam-netherlands
+2,3,3,3,4,3,53,3,4,3,3,4,4,4.47,Europe,Sweden,malmo-sweden
+1,4,3,3,4,4,42,2,4,3,4,4,4,4.14,Europe,Norway,bergen-norway
+1,4,3,3,4,4,43,3,4,3,4,4,4,3.95,Europe,Norway,trondheim-norway
+1,3,3,4,4,3,21,3,4,3,4,4,4,3.18,Oceania,Australia,melbourne-australia
+1,3,3,1,4,3,19,3,4,3,4,4,4,4.18,Oceania,Australia,adelaide-australia
+1,3,3,2,4,3,25,2,4,3,4,4,4,4.1,Oceania,New Zealand,auckland-new-zealand
+1,3,3,3,4,3,37,2,4,3,4,4,1,3.58,Oceania,New Zealand,queenstown-new-zealand
+2,3,4,3,4,3,30,2,4,3,4,4,4,3.82,Oceania,New Zealand,christchurch-new-zealand
+2,3,4,2,4,3,43,3,4,3,4,4,4,4.18,Oceania,New Zealand,wellington-new-zealand
+1,3,3,1,4,3,19,2,4,3,4,4,4,3.03,Oceania,Australia,brisbane-australia
+2,2,3.056887002,4,3.069371615,3,24,4,3,3,3,4,4,4.55,Europe,Czechia,prague-czechia
+1,3,3,3,4,4,28,3,4,3,4,4,4,4.34,Europe,Switzerland,zurich-switzerland
+1,2,3,3,2,4,17,3,3,3,3,4,4,3.97,Europe,Italy,milan-italy
+2,2,2,2,2,4,15,3,3,3,4,4,4,3.84,Asia,Japan,osaka-japan
+2,3,3,3,3,4,36,3,3,3,4,4,4,4.56,Europe,Spain,valencia-spain
+3,1,3,2,3,1,33,1,1,3,2,1,2,3.62,Asia,Thailand,ao-nang-thailand
+2,3,3,3,3,4,35,3,3,3,4,4,4,4.34,Europe,Spain,alicante-spain
+2,3,4,3,3,4,43,2,3,3,4,4,4,4.06,Europe,Spain,malaga-spain
+1,2,3,3,3,4,43,3,3,3,4,4,4,3.89,Europe,Malta,sliema-malta
+2,3,3,3,3,4,34,3,3,3,4,4,4,4.21,Europe,Spain,madrid-spain
+3,1,2,4,1,1,11,4,1,3,2,3,1,3.697741978,Asia,India,goa-india
+1,2,3,4,2,4,22,3,3,3,3,4,4,2.96,Europe,Italy,rome-italy
+1,3,3,3,4,3,38,4,4,3,3,4,4,4.35,North America,Canada,toronto-canada
+1,2,4,3,3,3,36,3,3,4,3,4,4,4.17,North America,United States,boulder-co-united-states
+1,2,4,3,3,3,18,3,3,3,3,4,4,4.6,North America,United States,los-angeles-ca-united-states
+3,1,4,3,3,2,16,2,2,3,1,4,4,4.17,Latin America,Mexico,playa-del-carmen-mexico
+3,2,3,2,2,3,12,2,3,3,4,4,4,4.34,Europe,Croatia,zagreb-croatia
+2,2,2,4,2,4,17,1,3,3,4,4,1,3.1,Asia,Japan,kobe-japan
+2,3,4,2,4,3,17,1,4,3,3,4,4,4.39,North America,Canada,winnipeg-canada
+3,2,3,3,1,1,4,3,2,3,1,1,4,4.08,Africa,South Africa,cape-town-south-africa
+1,2,4,4,3,3,11,3,3,3,4,4,4,4.2,Oceania,United States,honolulu-hawaii-united-states
+1,3,2,2,3,4,46,2,4,3,4,4,4,4.33,Europe,Luxembourg,luxembourg-luxembourg
+1,3,3,2,3,3,58,3,4,3,3,4,1,4.125098842,Europe,Belgium,bruges-belgium
+1,3,3,2,4,3,33,2,4,3,3,4,4,4.46,North America,Canada,vancouver-canada
+1,2,3,3,3,3,33,3,3,3,3,4,4,4.5,North America,United States,seattle-wa-united-states
+1,2,2,3,3,4,20,4,3,3,3,4,4,4.2,Europe,France,paris-france
+1,4,3,3,4,4,48,3,4,3,3,4,4,4.29,Europe,Netherlands,rotterdam-netherlands
+3,2,3,4,3,2,8,4,3,3,2,4,4,4.38,Latin America,Argentina,buenos-aires-argentina
+1,3,3,2,3,4,35,1,4,3,4,4,4,4.02,Europe,Austria,salzburg-austria
+1,2,2,2,3,3,18,2,3,3,2,4,4,3.95,North America,United States,chicago-il-united-states
+1,2,3,2,3,3,27,2,3,3,3,4,4,4.29,North America,United States,charleston-sc-united-states
+1,2,3,4,3,2,16,4,3,3,3,4,4,4.53,Europe,United Kingdom,london-united-kingdom
+1,3,3,3,3,4,36,2,4,3,4,4,4,3.5,Europe,Ireland,cork-ireland
+1,2,3,3,2,4,19,4,3,3,4,4,4,4.15,Asia,Japan,tokyo-japan
+1,2,3,3,3,3,35,3,3,3,3,4,4,4.41,North America,United States,miami-fl-united-states
+2,3,3,3,4,3,20,3,4,3,3,4,4,4.44,North America,Canada,montreal-canada
+1,3,4,2,4,3,17,2,4,3,4,4,4,4.04,Oceania,Australia,perth-australia
+3,1,4,3,3,1,18,3,1,3,3,1,1,3.64,Asia,Thailand,ko-samui-thailand
+3,1,3,2,1,1,10,1,1,2,3,4,4,3.87,Asia,Cambodia,siem-reap-cambodia
+3,1,4,1,3,1,11,1,1,3,3,1,4,3.88,Asia,Thailand,pai-thailand
+3,1,2,2,1,1,6,1,2,3,3,3,4,3.96,Asia,Vietnam,hanoi-vietnam
+3,1,4,3,2,1,8,4,2,2,3,3,4,4.26,Asia,China,shanghai-china
+3,2,4,2,3,4,25,3,2,3,3,4,4,4.27,Asia,Taiwan,taipei-taiwan
+3,1,3,2,3,2,12,2,2,3,1,4,4,4.2,Latin America,Mexico,guadalajara-mexico
+1,2,4,4,3,3,31,4,3,3,3,4,4,4.52,North America,United States,las-vegas-nv-united-states
+1,2,2,2,3,3,32,2,3,3,3,4,4,4.1,North America,United States,ithaca-ny-united-states
+1,2,3,3,3,3,21,2,3,3,2,4,4,4.33,North America,United States,philadelphia-pa-united-states
+1,2,3,2,3,3,35,3,3,3,3,4,1,4.3,North America,United States,princeton-nj-united-states
+1,2,4,2,2,4,20,2,3,3,3,4,4,4.26,Europe,Italy,bologna-italy
+1,2,4,4,3,3,33,4,3,3,3,4,4,4.36,North America,United States,san-francisco-ca-united-states
+1,2,3,2,3,3,31,3,3,3,2,4,4,3.93,North America,United States,houston-tx-united-states
+1,4,4,3,4,3,22,3,4,3,3,4,4,4.19,Europe,Finland,helsinki-finland
+2,3,2,2,3,4,18,2,3,3,4,4,1,3.8,Europe,Spain,tarifa-spain
+3,1,2,2,3,1,11,3,2,3,1,1,2,4.05,Latin America,Brazil,salvador-brazil
+1,3,4,3,4,4,46,2,4,3,4,4,4,4.44,Europe,Switzerland,bern-switzerland
+2,3,3,2,4,3,17,2,4,3,3,4,4,3.94,North America,Canada,calgary-canada
+1,2,2,2,3,3,17,2,3,3,3,4,4,4.31,North America,United States,phoenix-az-united-states
+3,1,3,3,1,1,26,3,3,3,3,4,4,4.38,Europe,Bulgaria,sofia-bulgaria
+1,2,3,3,3,4,44,3,3,3,3,4,4,4.27,Europe,France,lyon-france
+3,1,2,1,1,2,7,1,1,3,2,4,4,3.57,Middle East,Egypt,dahab-egypt
+3,1,3,3,2,1,10,4,1,3,3,4,4,4.12,Europe,Turkey,istanbul-turkey
+3,1,2,2,2,2.758433269,18,1,3,3,3,4,4,3.94,Europe,Montenegro,podgorica-montenegro
+2,2,3,1,2,3,13,1,3,3,4,4,4,4.15,Europe,Croatia,zadar-croatia
+1,2,3,2,3,4,42,2,3,3,3,4,4,4.25,Europe,France,bordeaux-france
+3,1,3,2,1,1,17,1,2,3,3,3,2,4.2,Asia,Vietnam,da-nang-vietnam
+3,1,3,2,2,1,8,2,1,3,2,4,4,4.33,Europe,Turkey,alanya-turkey
+2,3,2,3,3,4,46,2,3,3,4,4,4,3.83,Europe,Spain,sevilla-spain
+3,3,3,3,3,4,32,3,3,3,4,4,4,3.71,Europe,Spain,las-palmas-spain
+2,1,3,3,2,3,10,2,2,3,2,3,2,3.85,Africa,Morocco,rabat-morocco
+1,3,4,3,4,4,41,2,4,3,4,4,4,3.84,Europe,Switzerland,geneva-switzerland
+2,3,3,2,3,3,30,2,4,3,4,4,4,4.22,Europe,Germany,leipzig-germany
+3,1,2,1,2,1,5,2,2,2,3,3,1,3.55,Asia,China,dongguan-china
+1,2,4,1,3,3,28,2,3,3,3,4,4,4.18,North America,United States,san-jose-united-states
+2,1,3,4,2,4,9,3,3,3,4,4,4,4.31,Europe,Greece,athens-greece
+1,1,2,3,2,4,11,3,3,3,3,4,2,3.87,Europe,Greece,rhodes-greece
+3,1,2,2,3,1,18,2,1,3,2,1,1,3.63,Asia,Thailand,hua-hin-thailand
+3,1,3,3,2,1,26,2,1,3,1,4,4,4.36,Europe,Russia,saint-petersburg-russia
+2,1,2,3,2,1,20,4,1,3,2,4,4,4.49,Europe,Russia,moscow-russia
+3,1,3,3,2,3,6,2,1,3,2,4,4,3.86,Asia,Philippines,cebu-philippines
+3,1,3,4,2,3,10,3,2,3,2,3,4,4.16,Africa,Morocco,marrakesh-morocco
+1,2,4,2,3,2,20,2,3,3,3,4,4,4.42,Europe,United Kingdom,newcastle-upon-tyne-united-kingdom
+1,3,3,4,3,4,31,3,3,3,4,4,4,4.42,Europe,Spain,palma-mallorca-spain
+1,3,3,3,3,4,43,2,3,3,4,4,1,4.2,Europe,Spain,javea-spain
+3,1,3,3,2,3,4,1,2,3,2,3,4,4.04,Africa,Morocco,fes-morocco
+3,1,4,2,2,3,6,1,2,3,3,3,1,4.53,Africa,Morocco,taghazout-morocco
+1,2,3,3,2,4,14,2,3,3,3,4,4,3.62,Europe,Italy,naples-italy
+3,1,2,2,1,1,8,1,1,2,2,3,4,3.48,Asia,India,chandigarh-india
+1,4,4,3,4,4,48,2,4,3,4,4,4,4.28,Europe,Netherlands,utrecht-netherlands
+1,2,3,2,3,3,45,1,3,3,3,4,2,4.22,North America,United States,palo-alto-ca-united-states
+2,1,3,4,3,1,15,4,2,3,1,1,4,3.47,Latin America,Brazil,rio-de-janeiro-brazil
+3,1,3,2,2,1,13,2,2,2,3,3,4,4.22,Asia,China,hangzhou-china
+3,1,4,2,3,2,11,2,2,3,2,4,4,3.11,Latin America,Mexico,oaxaca-mexico
+2,2,2,4,2,4,17,3,3,3,4,4,4,3.03,Asia,Japan,kyoto-japan
+3,1,3,2,3,1,11,2,2,3,1,1,4,3.44,Latin America,Brazil,belo-horizonte-brazil
+3,2,3,3,2,2.362678376,24,4,2,3,3,4,4,4.59,Europe,Serbia,belgrade-serbia
+1,1,3,4,3,1,8,2,3,2,4,4,4,4.02,Middle East,United Arab Emirates,abu-dhabi-united-arab-emirates
+2,1,3,4,2,2,2,4,1,3,2,3,4,3.69,Middle East,Lebanon,beirut-lebanon
+2,1,4,3,3,3,8,3,2,3,3,4,4,3.98,Middle East,Bahrain,manama-bahrain
+3,1,2,1,1,1,4,2,1,3,2,3,4,2.93,Asia,India,kochi-india
+3,1,2,2,1,1,14,2,1,2,2,3,4,3.78,Asia,India,bangalore-india
+2,1,3,3,3,3,12,2,3,2,3,4,2,3.74,Middle East,Qatar,doha-qatar
+1,2,3,3,3,3,56,3,3,3,3,4,4,4.33,North America,United States,austin-tx-united-states
+3,1,3,2,2,3,4,3,1,3,2,4,4,3.15,Asia,Philippines,manila-philippines
+3,1,3,3,2,2,15,2,2,3,3,3,2,4.8,Asia,Indonesia,canggu-bali-indonesia
+1,2,3,3,2,3,14,4,3,3,4,4,4,4.01,Asia,South Korea,seoul-south-korea
+1,2,3,3,3,3,33,2,3,3,2,4,4,4.08,North America,United States,atlanta-ga-united-states
+1,2,3,4,3,4,18,2,3,3,3,4,4,4.33,Europe,France,nice-france
+1,2,3,4,3.531460746,4,17,3,2,4,4,4,4,3.98,Europe,Monaco,monaco-monaco
+1,2,3,4,3,4,30,3,3,3,3,4,1,4.4,Europe,France,cannes-france
+1,2,3,2,3,3,23,1,3,3,3,4,4,3.99,North America,United States,santa-monica-ca-united-states
+2,2,3,3,3,3,18,3,3,3,3,4,4,4.27,North America,United States,buffalo-ny-united-states
+3,2,3,3,2,3,34,2,3,3,4,4,1,4.51,Asia,South Korea,busan-south-korea
+3,1,3,2,3,1,21,2,1,3,3,1,1,2.98,Asia,Thailand,ko-phi-phi-thailand
+1,2,4,3,3,3,21,2,3,3,3,4,4,4.25,North America,United States,minneapolis-mn-united-states
+1,2,3,1,3,3,34,1,3,3,3,4,2,4.28,North America,United States,omaha-ne-united-states
+3,1,3,2,1,1,3,2,1,2,3,3,4,3.8,Asia,India,varanasi-india
+3,1,4,4,1,1,6,2,1,2,3,3,4,4.14,Asia,Nepal,kathmandu-nepal
+2,2,3,2,3,3,34,2,3,3,3,4,4,4.43,North America,United States,raleigh-nc-united-states
+2,2,4,3,3,2,19,3,3,3,3,4,4,4.3,Europe,United Kingdom,leicester-united-kingdom
+3,1,3,2,3,3,9,1,2,3,3,1,2,4.06,Asia,Malaysia,kuching-malaysia
+2,3,3,3,3,3,28,2,4,3,4,4,4,3.64,Europe,Germany,nuremberg-germany
+1,3,3,3,3,3,46,3,4,3,3,4,4,4.27,Europe,Belgium,antwerp-belgium
+1,3,3,2,3,3,50,2,4,3,4,4,4,3.69,Europe,Germany,dusseldorf-germany
+1,2,2,2,3,3,21,3,3,3,2,4,4,4.17,North America,United States,oakland-ca-united-states
+3,1,2,2,2,1,4,2,2,2,3,3,4,4.14,Asia,China,chengdu-china
+1,2,3,2,3,3,21,2,3,3,2,4,4,3.92,North America,United States,detroit-mi-united-states
+2,3,4,3,4,3,38,1,4,3,3,4,4,4.45,North America,Canada,kitchener-canada
+2,1,3,3,2,1,8,3,2,2,3,3,1,3.42,Asia,China,nanjing-china
+3,1,2,3,2,1,8,2,2,3,3,3,4,3.97,Asia,China,guangzhou-china
+1,2,4,3,3,3,13,1,3,3,3,4,4,4.25,North America,United States,west-palm-beach-fl-united-states
+2,2,3,2,3,3,41,2,3,3,3,4,4,4.36,North America,United States,dallas-tx-united-states
+3,1,4,2,3,2,19,2,2,3,1,4,4,3.75,Latin America,Mexico,monterrey-mexico
+3,1,2,4,3,2,14,1,2,3,1,4,4,3.86,Latin America,Mexico,tijuana-mexico
+3,2,3,3,2,1,10,2,2,2,2,4,4,3.93,Latin America,Peru,lima-peru
+3,2,1,1,2,1,17,1,2,3,2,4,4,3.37,Latin America,Peru,cusco-peru
+3,2,3,1,2,2,3,1,1,3,1,3,2,2.98,Latin America,Nicaragua,managua-nicaragua
+3,1,4,4,3,2,3,2,1,3,1,4,4,4.31,Latin America,Guatemala,antigua-guatemala
+1,2,4,4,3,2,30,3,3,3,4,4,4,4.17,Europe,United Kingdom,bristol-united-kingdom
+3,1,4,2,1,1,15,1,2,3,3,3,1,4.35,Asia,Vietnam,da-lat-vietnam
+2,2,3,2,3,2,28,3,3,3,3,4,4,4.21,Europe,United Kingdom,nottingham-united-kingdom
+3,2,3,2,2,2,42,2,3,3,3,4,1,4.41,Europe,Romania,brasov-romania
+3,2,3,3,2,2,85,3,3,3,3,4,4,4.35,Europe,Romania,bucharest-romania
+2,2,2,2,2,4,9,2,3,3,3,4,1,3.75,Europe,Italy,palermo-italy
+3,1,1,1,2,2,6,2,2,3,3,3,4,3.64,Asia,Indonesia,kuta-bali-indonesia
+3,1,1,1,2,2,10,1,2,3,3,3,4,4.21,Asia,Indonesia,denpasar-bali-indonesia
+3,1,3,3,2,2,3,3,2,3,3,3,1,3.73,Asia,Indonesia,seminyak-bali-indonesia
+3,2,3,3,2,3,108,2,3,3,4,4,4,4.52,Asia,South Korea,jeju-island-south-korea
+2,1,1,2,2,1,7,1,2,2,3,3,4,3.76,Asia,China,beijing-china
+1,3,3,2,3,4,42,2,3,3,3,4,4,4.06,Europe,Spain,bilbao-spain
+2,3,2,2,2,4,13,2,4,3,4,4,4,3.51,Europe,Portugal,portimao-portugal
+2,3,3,2,2,4,38,3,4,3,3,4,4,4.48,Europe,Portugal,porto-portugal
+2,2,1,2,3,4,30,2,3,3,3,4,1,3.76,Europe,France,chamonix-france
+2,2,3,2,2.346778295,2.550356463,28,2,2,3,2,4,4,3.58,Europe,Gibraltar,gibraltar-gibraltar
+1,3,2,3,2,3,9,3,2,3,3,4,2,3.94,Europe,Cyprus,paphos-cyprus
+3,1,4,4,3,1,13,4,2,3,1,1,4,3.99,Latin America,Brazil,sao-paulo-brazil
+1,1,3,3,4,3,0,3,2,3,3,4,4,4.32,Middle East,Israel,tel-aviv-israel
+3,1,3,3,1,1,6,1,1,2,2,3,4,3.09,Asia,India,surat-india
+3,1,3,2,1,1,7,2,1,3,2,3,4,3.66,Asia,India,pune-india
+4,1,2,1,1,1,5,1,1,3,2,3,4,3.5,Asia,India,varkala-india
+3,1,3,2,1,1,5,1,1,2,2,3,4,2.97,Asia,India,kolkata-india
+3,1,3,1,1,1,4,1,1,2,2,3,4,3.14,Asia,India,kota-india
+3,1,2,1,1,1,5,1,1,1,2,3,4,3.24,Asia,India,allahabad-india
+1,3,3,4,3,4,46,4,3,3,4,4,4,4.24,Europe,Spain,ibiza-spain
+1,2,4,2,3,3,23,2,3,3,3,4,4,4.3,North America,United States,salt-lake-city-ut-united-states
+3,1,2,2,2,2,5,2,2,3,3,3,4,4.27,Asia,Indonesia,yogyakarta-indonesia
+1,2,3,2,2,3,13,2,3,3,3,4,4,3.85,Europe,Croatia,split-croatia
+3,2,3,2,2.782575972,3,29,2,3,3,4,4,4,3.93,Europe,Czechia,brno-czechia
+3,1,2,2,2,2,15,2,2,3,3,3,4,3.98,Asia,Indonesia,jakarta-indonesia
+3,1,3,3,1,1,33,2,1,3,2,4,4,4.61,Europe,Ukraine,kiev-ukraine
+2,2,4,3,2,3,41,3,3,3,3,4,4,4.25,Europe,Slovenia,ljubljana-slovenia
+1,1,2,3,2,4,14,3,3,3,3,4,1,3.09,Europe,Greece,santorini-greece
+3,1,3,3,2,4,9,2,3,3,3,4,4,4.07,Europe,Greece,thessaloniki-greece
+1,2,4,4,2,4,21,1,3,3,3,4,4,3.88,Europe,Italy,florence-italy
+2,3,2,2,3,4,18,1,3,3,3,4,4,3.73,Europe,Spain,granada-spain
+1,3,4,4,4,3,38,2,4,3,3,4,4,4.34,North America,Canada,kelowna-canada
+2,3,4,1,4,3,38,2,4,3,3,4,4,4.26,North America,Canada,victoria-canada
+1,2,2,2,3,4,74,2,3,3,3,4,1,3.95,Europe,France,avignon-france
+3,1,2,2,2,2,7,1,2,3,3,3,4,3.91,Asia,Indonesia,surabaya-indonesia
+3,1,3,2,2,2,9,2,2,3,3,3,4,3.96,Asia,Indonesia,bandung-indonesia
+1,3,4,4,4,3,42,2,4,3,3,4,4,4.23,Europe,Sweden,gothenburg-sweden
+2,2,3,3,3,3,16,3,2,3,1,4,1,3.82,Latin America,Trinidad and Tobago,port-of-spain-trinidad-and-tobago
+1,3,2,2,3,4,41,2,4,3,4,4,4,3.82,Europe,Austria,innsbruck-austria
+3,1,3,3,1,1,17,2,2,3,3,3,2,4.2,Asia,Vietnam,nha-trang-vietnam
+1,3,3,2,4,4,41,2,4,3,4,4,4,4.1,Europe,Switzerland,basel-switzerland
+1,3,3,2,4,4,39,2,4,3,4,4,4,3.58,Europe,Switzerland,lausanne-switzerland
+1,3,4,2,4,3,20,2,4,3,4,4,4,4.21,Oceania,Australia,hobart-australia
+2,2,2,2,2,4,28,2,3,3,3,4,1,3.87,Europe,Italy,palermo-sicily-italy
+3,1,3,4,3,1,12,1,2,3,1,1,4,3.59,Latin America,Brazil,recife-brazil
+1,2,3,4,3,3,20,1,3,3,3,4,1,4.31,North America,United States,key-west-fl-united-states
+1,2,2,2,3,3,33,2,3,3,2,4,4,4.21,North America,United States,baltimore-md-united-states
+2,2,4,3,3,2,20,3,3,3,4,4,4,4.13,Europe,United Kingdom,liverpool-united-kingdom
+1,2,4,2,3,2,15,2,3,3,3,4,4,4.4,Europe,United Kingdom,cardiff-united-kingdom
+3,2,4,3,3,2,9,2,3,3,2,4,4,3.81,Latin America,Argentina,cordoba-argentina
+3,2,2,1,3,2,6,2,3,3,2,4,1,3.68,Latin America,Argentina,mendoza-argentina
+1,2,4,3,3,3,37,4,3,3,2,4,4,3.7,North America,United States,new-orleans-la-united-states
+3,1,3,2,2,1,5,2,1,2,1,3,1,3.37,Latin America,Bolivia,la-paz-bolivia
+3,1,4,2,2,1,5,2,1,3,2,3,4,3.63,Latin America,Bolivia,cochabamba-bolivia
+2,3,3,2,3,2,19,2,3,3,2,3,4,4.17,Latin America,Uruguay,montevideo-uruguay
+3,1,2.19353457,2,2,3,7,1.976064505,2,3,2,1,2,3.64,Latin America,Paraguay,asuncion-paraguay
+3,1,2,2,3,1,21,2,2,3,1,1,4,3.75,Latin America,Brazil,campo-grande-brazil
+3,1,4,4,3,1,7,2,2,3,1,1,4,2.83,Latin America,Brazil,florianopolis-brazil
+1,2,3,2,3,2,24,3,3,3,3,4,4,4.19,Europe,United Kingdom,brighton-united-kingdom
+1,2,3,3,3,2,34,2,3,3,4,4,4,3.93,Europe,United Kingdom,birmingham-united-kingdom
+1,2,2,2,2,3,15,1,3,3,4,4,4,3.71,Europe,Croatia,dubrovnik-croatia
+3,2,2,1,1,3,4,1,1,2,2,1,2,3.09,Africa,Tanzania,dar-es-salaam-tanzania
+1,2,4,4,2,4,18,3,3,3,3,4,2,4.06,Europe,Italy,venice-italy
+3,1,2,3,2.19062113,4,6,1,3,2,3,1,4,3.1,Middle East,Oman,muscat-oman
+2,3,3,3,4,3,8,1,3,3,2,4,2,3.3,Latin America,Costa Rica,puerto-viejo-costa-rica
+3,2,2,3,3,2,6,1,3,3,2,4,4,2.68,Latin America,Argentina,ushuaia-argentina
+1,2,3,3,3,3,42,2,3,4,3,4,4,4.38,North America,United States,denver-co-united-states
+1,2,3,3,3,3,47,3,3,3,3,4,4,4.18,North America,United States,nashville-tn-united-states
+1,3,3,2,4,3,58,2,4,3,3,4,4,4.05,North America,Canada,whistler-canada
+2,2,3,2,3,4,46,1,3,3,3,4,4,4.25,Europe,France,grenoble-france
+3,1,3,2,1,1,5,3,1,3,2,1,4,3.78,Africa,Kenya,nairobi-kenya
+3,1,2,2,1,4,2,1,1,2,1,1,4,3.88,Africa,Uganda,kampala-uganda
+1,1,3,2,1,1,1,2,1,2,2,1,4,3.58,Africa,Rwanda,kigali-rwanda
+1,1,2,2,4,3,24,4,2,3,3,4,4,4.16,Middle East,Israel,jerusalem-israel
+3,1,3,2,1,2,6,2,1,3,2,4,4,3.91,Middle East,Egypt,cairo-egypt
+3,1,3,4,1,1,19,2,3,3,3,4,2,4.18,Europe,Bulgaria,bansko-bulgaria
+3,1,4,3,2,3,6,2,1,3,2,4,4,4.41,Asia,Philippines,davao-philippines
+3,1,4,3,3,2,19,2,2,3,2,4,4,3.95,Latin America,Mexico,puerto-vallarta-mexico
+3,1,4,2,3,2,19,2,2,3,2,4,4,3.88,Latin America,Mexico,san-miguel-de-allende-mexico
+2,1,4,3,3,2,23,2,3,3,2,4,4,3.55,Latin America,Panama,panama-city-panama
+1,2,3,2,3,3,14,2,3,3,3,4,2,4.14,North America,United States,anchorage-ak-united-states
+3,1,3,3,1,1,24,3,1,3,2,4,4,4.46,Europe,Ukraine,lviv-ukraine
+2,3,4,4,2,2,31,3,3,3,3,4,4,4.34,Europe,Lithuania,vilnius-lithuania
+3,2,4,3,1,1,13,2,1,3,3,4,2,4.18,Europe,Georgia,tbilisi-georgia
+1,2,3,2,3,3,35,2,3,3,3,4,4,4.43,North America,United States,sacramento-ca-united-states
+1,2,3,2,3,3,41,2,3,3,4,4,4,4.29,North America,United States,asheville-nc-united-states
+3,1,2,2,2,1,7,1,2,2,3,3,1,3.68,Asia,China,xian-china
+3,2,2,2,1,1,3,1,3,2,2,4,4,3.79,Asia,Mongolia,ulaanbaatar-mongolia
+3,2,3,3,2,3,37,2,3,3,4,4,4,4.27,Europe,Poland,lodz-poland
+3,3,4,2,3,3,17,2,3,3,3,4,4,3.78,Latin America,Chile,santiago-chile
+2,2,4,3,2.589022759,2.513878336,15,1,2,3,2,4,2,3.93,Latin America,Puerto Rico,san-juan-puerto-rico
+1,3,2,2,3,2,23,1,3,3,2,3,1,3.35,Latin America,Uruguay,punta-del-este-uruguay
+1,4,3,3,4,4,45,3,4,3,4,4,4,4.43,Europe,Netherlands,groningen-netherlands
+2,2,2,1,3,3,38,1,3,3,2,4,4,4.24,North America,United States,st-louis-mo-united-states
+3,1,4,3,1,2,10,1,1,3,3,4,4,3.99,Asia,Sri Lanka,colombo-sri-lanka
+2,3,3,1,4,3,30,1,4,3,4,4,4,4.24,Oceania,Australia,cairns-australia
+2,2,1,2,2.009698426,2,3,1,1,3,3,4,4,3.16,Oceania,Fiji,suva-fiji
+3,1,4,3,2,3,6,4,2,3,3,3,4,3.85,Africa,Morocco,casablanca-morocco
+3,1,4,1,1.559831727,1,5,1,1,3,2,3,4,3.35,Asia,Laos,vientiane-laos
+3,1,2,2,2,1,5,1,2,2,3,3,4,2.93,Asia,China,wuhan-china
+2,3,3,2,4,3,40,3,4,3,4,4,4,4.15,Oceania,New Zealand,dunedin-new-zealand
+3,2,3,3,2,3,33,2,3,3,4,4,1,4.48,Asia,South Korea,daegu-south-korea
+3,1,4,4,2.303969875,3,1,3,2,3,3,4,1,3.02,Latin America,Cuba,havana-cuba
+3,1,2,1,1,1,3,1,1,2,2,3,1,3.51,Asia,India,rishikesh-india
+3,1,2,2,1,1,4,1,1,3,2,3,1,3.29,Africa,Ethiopia,addis-ababa-ethiopia
+1,4,3,2,4,4,42,2,4,3,4,4,4,4.23,Europe,Netherlands,nijmegen-netherlands
+2,2,4,3,3,3,60,2,3,3,2,4,4,4.24,North America,United States,kansas-city-mo-united-states
+3,2,2,4,2,2,51,2,3,3,3,4,4,3.86,Europe,Romania,constanta-romania
+1,2,2,2,3,2,27,2,3,3,3,4,1,4.07,Europe,United Kingdom,cheltenham-united-kingdom
+1,2,2,3,2,4,14,3,3,3,3,4,4,4.41,Europe,Italy,pisa-italy
+3,2,3,4,2,3,37,3,3,3,3,4,4,4.21,Europe,Poland,krakow-poland
+2,2,4,2,3,3,16,2,3,3,3,4,4,4.108303654,North America,United States,des-moines-ia-united-states
+2,2,4,1,3,3,19,1,3,3,3,4,4,4.33,North America,United States,tucson-az-united-states
+3,1,3,3,1.851338653,1,12,2,1,3,2,3,4,3.99,Asia,Laos,luang-prabang-laos
+3,2,3,4,1,1.899213032,6,1,1,3,2,4,2,4.08,Asia,Myanmar,yangon-myanmar
+3,2,2,2,3,4,29,1,2,3,3,4,4,4.35,Asia,Taiwan,taichung-taiwan
+3,1,2,1,2,1,4,1,2,2,3,3,4,3.48,Asia,China,kunming-china
+3,1,3,3,2,1,3,2,2,3,4,3,1,3.61,Asia,China,yangshuo-china
+3,1,2,2,2,1,6,2,2,2,3,3,4,3.57,Asia,China,suzhou-china
+2,2,2,2,2,4,36,3,3,3,3,4,1,2.93,Asia,Japan,hiroshima-japan
+3,1,3,2,2,1,6,1,1,3,2,4,4,3.43,Europe,Azerbaijan,baku-azerbaijan
+3,2,3,2,1,1,5,3,2,3,3,4,4,4.3,Europe,Armenia,yerevan-armenia
+3,3,2,2,2,1,30,2,3,3,3,4,4,4.33,Europe,Latvia,riga-latvia
+2,3,4,3,2,2,30,3,3,3,3,4,4,4.25,Europe,Estonia,tallinn-estonia
+1,2,3,2,2,4,19,2,3,3,3,4,4,3.85,Europe,Italy,como-italy
+1,3,2,3,4,4,51,2,4,3,4,4,1,3.75,Europe,Switzerland,interlaken-switzerland
+1,3,4,3,3,3,27,3,4,3,4,4,4,4.4,Europe,Germany,frankfurt-germany
+3,1,4,2,1,1,4,2,2,3,2,3,4,4.3,Asia,Kyrgyzstan,bishkek-kyrgyzstan
+2,2,3,3,2,4,25,2,3,3,3,4,4,4.38,Europe,Italy,trento-italy
+2,3,3,3,3,3,33,3,4,3,4,4,4,4.33,Europe,Germany,cologne-germany
+2,2,2,2,3,2,33,3,3,3,3,4,4,3.79,Europe,United Kingdom,belfast-united-kingdom
+1,3,3,3,3,4,31,3,4,3,4,4,4,4.21,Europe,Ireland,galway-ireland
+3,1,2,4,3,2,19,3,3,3,1,4,2,4.14,Latin America,Panama,bocas-del-toro-panama
+1,4,2,1,4,4,55,1,4,3,4,4,1,3.98,Europe,Netherlands,deventer-netherlands
+3,1,2,2,2,2,14,2,2,3,3,4,4,3.93,Europe,Macedonia,skopje-macedonia
+2,2,3,2,3,3,36,3,3,3,3,4,4,4.27,North America,United States,san-antonio-tx-united-states
+1,2,2,1,2,4,16,2,3,3,3,4,1,3.75,Europe,Italy,siena-italy
+2,2,3,2,3,4,34,2,3,3,3,4,4,4.01,Europe,France,nantes-france
+2,2,4,4,3,2,24,3,3,3,3,4,4,4.02,Europe,United Kingdom,leeds-united-kingdom
+1,2,3,3,3,2,28,1,3,3,3,4,4,3.86,Europe,United Kingdom,southampton-united-kingdom
+3,1,2,1,2,3,3,2,1,3,1,1,1,2.84,Latin America,Venezuela,caracas-venezuela
+1,2,3,2,2,4,22,2,3,3,3,4,4,4.28,Europe,Italy,verona-italy
+3,1,4,2,3,2,20,2,2,3,2,4,4,4.17,Latin America,Mexico,hermosillo-mexico
+3,2,3,2,1,1,4,1,2,3,1,1,4,3.87,Africa,South Africa,port-elizabeth-south-africa
+3,1,3,2,3,2,5,1,1,3,1,4,2,3.56,Latin America,Guatemala,guatemala-city-guatemala
+2,2,2,3,2,2,10,1,2,3,1,3,1,3.85,Latin America,Belize,caye-caulker-belize
+2,2,3,4,2,2,9,1,2,3,1,3,2,3.7,Latin America,Belize,san-pedro-belize
+3,2,1,1,1,1,1,1,1,3,3,3,4,3.32,Africa,Madagascar,antananarivo-madagascar
+3,1,3,2,3,1,18,2,1,3,2,1,4,3.7,Asia,Thailand,ko-chang-thailand
+2,3,2,2,4,3,8,1,3,3,2,4,4,3.46,Latin America,Costa Rica,tamarindo-costa-rica
+3,2,3,3,2,3,33,2,3,3,3,4,4,3.9,Europe,Poland,wroclaw-poland
+3,3,2,2,2,2,19,2,3,3,2,4,4,4.28,Europe,Lithuania,kaunas-lithuania
+1,2,4,3,3,2,31,3,3,3,3,4,4,4.41,Europe,United Kingdom,oxford-united-kingdom
+3,2,2,3,2,4,46,2,3,3,4,4,1,3.97,Asia,Japan,fukuoka-japan
+2,2,3,2,3,2,23,2,3,3,4,4,4,4.07,Europe,United Kingdom,sheffield-united-kingdom
+2,3,4,2,4,3,17,2,4,3,3,4,2,2.86,Oceania,Australia,gold-coast-australia
+1,4,4,3,4,4,72,2,4,3,4,4,4,4.14,Europe,Netherlands,leiden-netherlands
+1,4,4,3,4,4,63,2,4,3,4,4,4,4.14,Europe,Netherlands,the-hague-netherlands
+3,1,2,2,1.447360147,1,1,1,1,3,2,4,1,2.95,Asia,North Korea,pyongyang-north-korea
+2,2,3,3,3,4,27,3,3,3,3,4,4,4.36,Europe,France,toulouse-france
+2,1,3,2,1,2,11,1,1,3,2,1,4,3.36,Middle East,Iran,tehran-iran
+3,1,3,1,1,2,4,1,1,2,2,4,2,2.7,Asia,Bangladesh,dhaka-bangladesh
+3,3,2,2,4,3,7,3,3,3,1,4,4,4.29,Latin America,Costa Rica,san-jose-costa-rica
+1,2,4,2,3,3,16,1,3,3,3,4,2,4.2,North America,United States,park-city-ut-united-states
+2,3,2,2,3,3,32,2,4,3,4,4,2,3.91,Europe,Germany,heidelberg-germany
+3,2,4,4,1,3,4,1,1,2,2,1,1,3.41,Africa,Senegal,dakar-senegal
+3,2,3,2,1,1,3,1,2,2,1,1,4,3.67,Africa,South Africa,johannesburg-south-africa
+1,4,3,3,4,4,28,2,4,3,4,4,4,4.17,Europe,Netherlands,haarlem-netherlands
+2,3,3,4,3,4,50,1,3,3,4,4,4,3.79,Europe,Spain,corralejo-canary-islands-spain
+1,2,3,2,2,4,20,2,3,3,3,4,1,3.81,Europe,Italy,rimini-italy
+2,2,3,2,3,4,20,3,3,3,2,4,4,4.4,Europe,France,marseille-france
+1,2,2,3,3,3,18,3,3,3,3,4,1,4.16,North America,United States,santa-barbara-ca-united-states
+3,1,2,2,2,3,6,2,2,3,3,3,2,4.06,Africa,Morocco,el-jadida-morocco
+3,1,2.608551416,1.898794,2,3,10,0.89046101,2,3,2,3,4,4.13,Africa,Morocco,essaouira-morocco
+3,1,2,2,2,3,9,2,2,3,2,3,4,3.59,Africa,Morocco,agadir-morocco
+1,2,3,2,3,3,23,2,3,3,3,4,4,4.44,North America,United States,ann-arbor-mi-united-states
+3,2,3,4,2,3,9,2,2,3,1,1,4,3.49,Latin America,Dominican Republic,santo-domingo-dominican-republic
+1,2,3,3,2,4,27,2,3,3,3,4,4,4.019301689,Europe,Italy,turin-italy
+3,1,2,2,2,1,8,2,2,2,3,3,4,4.2,Asia,China,chongqing-china
+3,1,1,1,2,1,3,1,2,2,3,3,1,3.46,Asia,China,guilin-china
+3,1,3,2,3,2,16,1,2,3,2,4,4,4.1,Latin America,Mexico,merida-mexico
+3,3,2,2.169175661,3,3,11,2,3,3,3,4,4,3.34,Latin America,Chile,la-serena-chile
+1,2,3,4,3,4,52,3,3,3,3,4,4,4.27,Europe,France,lille-france
+2,1,2,2,2,2.390443412,17,1,3,3,3,4,4,3.2,Europe,Montenegro,budva-montenegro
+1,2,2,2.522606855,2,4,9,2,3,3,3,4,1,3.81,Europe,Italy,ferrara-italy
+3,1,2,2,3,1,9,2,2,3,1,1,4,3.6,Latin America,Brazil,vitoria-brazil
+2,3,3,2,3,3,33,3,4,3,4,4,4,4.14,Europe,Germany,dresden-germany
+3,2,3,2,2,1,2,3,2,3,1,1,2,4.07,Latin America,El Salvador,san-salvador-el-salvador
+2,1,2,4,2,1,11,2,2,3,3,3,4,3.76,Asia,China,macau-china
+3,2,3,2,2,3,33,2,3,3,3,4,4,3.9,Europe,Poland,katowice-poland
+1,2,2,2,3,4,28,2,3,3,3,4,2,4.03,Europe,France,montpellier-france
+2,3,4,2,3,4,30,2,4,3,4,4,4,3.92,Europe,Austria,graz-austria
+3,1,4,3,3,1,17,3,1,3,2,1,4,4.04,Asia,Thailand,pattaya-thailand
+3,1,3,3,3,1,15,2,2,3,1,1,4,3.95,Latin America,Brazil,curitiba-brazil
+2,2,3,2,3,3,36,3,3,3,3,4,4,4.3,North America,United States,grand-rapids-mi-united-states
+3,2,4,3,3,3,58,1,3,3,4,4,1,3.81,North America,United States,black-rock-city-nv-united-states
+3,1,4,4,2,1,11,3,1,3,3,4,4,4.44,Europe,Turkey,antalya-turkey
+3,1,4,4,2,3,18,2,1,3,2,4,1,3.1,Asia,Philippines,palawan-philippines
+3,1,3,3,3,3,8,1,2,3,3,1,4,3.79,Asia,Malaysia,kota-kinabalu-malaysia
+2,2,2,2,3,3,15,3,3,3,3,4,4,4.15,North America,United States,cleveland-oh-united-states
+2,2,2,2,3,3,34,1,3,3,3,4,4,3.76,North America,United States,reno-nv-united-states
+3,1,2,1,3,3,14,2,2,1,2,1,4,3.31,Middle East,Saudi Arabia,riyadh-saudi-arabia
+2,2,3,2,3,3,44,2,3,3,3,4,4,3.59,North America,United States,rochester-ny-united-states
+2,3,3,2,4,3,38,1,4,3,3,4,4,4.22,North America,Canada,halifax-canada
+2,2,3,2,3,3,17,2,3,3,3,4,4,4.35,North America,United States,louisville-ky-united-states
+2,3,4,2,4,3,38,1,4,3,3,4,4,3.94,North America,Canada,saskatoon-canada
+1,3,3,2,4,3,16,2,4,3,3,4,4,4.19,North America,Canada,regina-canada
+2,3,4,2,4,3,38,1,4,3,3,4,4,4.24,North America,Canada,ottawa-canada
+1,4,3,2,4,4,55,2,4,3,4,4,4,4.22,Europe,Netherlands,eindhoven-netherlands
+3,1,3,2,3,1,33,2,1,3,2,1,4,3.57,Asia,Thailand,ko-lipe-thailand
+1,2,2,2,2,4,28,2,3,3,3,4,1,3.87,Europe,Italy,lucca-italy
+3,1,4,4,2.122670165,1,3,1,2,3,3,4,4,2.88,Asia,Maldives,male-maldives
+1,2,4,3,3,3,12,2,3,3,4,4,4,4.07,Oceania,United States,hilo-hawaii-united-states
+3,1,2,1,2,1,12,1,1,3,3,4,4,3.63,Europe,Turkey,ankara-turkey
+3,1,2,2,2,1,4,2,2,2,3,3,1,3.15,Asia,China,zhengzhou-china
+3,1,4,2,3,3,9,1,1,3,1,3,1,3.83,Latin America,Colombia,salento-colombia
+2,1,2,1,2,1,18,2,1,3,1,4,4,3.15,Asia,Russia,vladivostok-russia
+3,2,3,2,2,1,21,2,2,3,2,4,2,4.43,Europe,Moldova,chisinau-moldova
+3,1,4,2,2,2,13,2,2,3,3,4,4,3.78,Europe,Belarus,minsk-belarus
+2,2,3,1,3,3,36,3,3,3,3,4,4,4.32,North America,United States,ogden-ut-united-states
+1,1,3,2,2.201482549,3,5,2,2,2,1,4,1,3.61,Africa,Seychelles,victoria-seychelles
+3,2,3,1,2,2,10,2,2,3,1,3,2,3.64,Latin America,Belize,belize-city-belize
+2,2,2,3,3,3,23,3,3,3,3,4,4,4.34,North America,United States,pittsburgh-pa-united-states
+2,3,2,2,3,4,18,2,3,3,4,4,1,3.87,Europe,Spain,pamplona-spain
+2,3,4,3,3,3,35,3,4,3,4,4,4,3.99,Europe,Germany,stuttgart-germany
+2,3,2,2,3,3,34,2,4,3,4,4,4,3.88,Europe,Germany,darmstadt-germany
+3,1,2,1,3,3,17,1,2,3,2,1,4,3.66,Asia,Malaysia,johor-bahru-malaysia
+2,2,3,2,3,3,21,2,3,3,3,4,4,4.38,North America,United States,gainesville-fl-united-states
+2,2,3,3,3,3,38,3,3,3,3,4,4,4.3,North America,United States,tampa-fl-united-states
+1,3,2,2,3,3,31,1,4,3,4,4,4,3.79,Europe,Germany,karlsruhe-germany
+3,1,3,2,2,1,18,2,1,3,1,4,4,4.13,Europe,Russia,kazan-russia
+3,1,3,1,2,3,12,2,1,3,2,4,4,3.6,Asia,Philippines,boracay-philippines
+3,1,2,1,2,1,5,1,1,1,2,3,1,2.68,Asia,Pakistan,islamabad-pakistan
+1,2,3,1,3,2,36,1,3,3,3,4,4,3.73,Europe,United Kingdom,northampton-united-kingdom
+3,1,2,1,2,2,7,1,2,3,3,3,1,3.55,Asia,Indonesia,gili-air-indonesia
+1,2,3,2,3,2,23,2,3,3,3,4,4,3.75,Europe,United Kingdom,aberdeen-united-kingdom
+3,2,3,3,2,2,8,2,3,3,3,4,4,4.35,Africa,Mauritius,port-louis-mauritius
+3,1,4,3,3,1,20,2,1,3,2,1,4,4.15,Asia,Thailand,chiang-rai-thailand
+3,1,4,4,1,2,9,3,1,3,3,4,4,4.13,Middle East,Egypt,el-gouna-egypt
+3,1,3,3,3,1,18,1,2,3,1,1,4,3.99,Latin America,Brazil,fortaleza-brazil
+1,2,2,2,3,2,17,3,3,3,3,4,4,3.81,Europe,United Kingdom,reading-united-kingdom
+1,2,3,3,2.77459061,2,19,3,3,3,2,4,1,3.82,Latin America,The Bahamas,nassau-the-bahamas
+2,2,3,1,3,3,39,2,3,3,3,4,4,4.37,North America,United States,memphis-tn-united-states
+3,1,3,2,1,1,5,1,1,3,2,3,1,3.79,Asia,India,kozhikode-india
+2,2,3,2,3,3,14,1,3,3,3,4,4,4.23,North America,United States,boise-id-united-states
+3,1,2,1,2,1,5,1,2,3,3,3,4,3.84,Asia,China,xiamen-china
+3,1,3,2,2,1,7,1,2,2,3,3,4,3.56,Asia,China,dalian-china
+3,1,1,1,2,1,10,1,2,2,3,3,4,3.45,Asia,China,harbin-china
+3,1,3,3,1,1,20,2,3,3,3,4,4,4.33,Europe,Bulgaria,varna-bulgaria
+2,1,2,2,3,3,18,1,2,3,2,1,1,3.86,Asia,Malaysia,malacca-malaysia
+1,3,4,1,4,3,21,1,4,3,4,4,4,4.14,Oceania,Australia,canberra-australia
+2,3,4,2,4,3,45,2,4,3,3,4,4,4.27,North America,Canada,windsor-canada
+3,1,3,2,1,1,28,1,1,3,2,4,4,3.98,Europe,Ukraine,odesa-ukraine
+2,2,2,2,3,3,35,3,3,3,3,4,4,4.52,North America,United States,richmond-va-united-states
+2,2,2,2,3,3,19,2,3,3,3,4,4,4.27,North America,United States,ashland-or-united-states
+1,2,4,1,3,2,36,1,3,3,4,4,4,3.48,Europe,United Kingdom,cambridge-united-kingdom
+1,2,2,2,3,2,26,2,3,3,3,4,1,4.06,Europe,United Kingdom,york-united-kingdom
+1,2,3,2,3,2,26,3,3,3,3,4,4,3.98,Europe,United Kingdom,norwich-united-kingdom
+3,3,3,2,2,4,43,2,4,3,3,4,4,4.37,Europe,Portugal,coimbra-portugal
+1,3,2,3,4,3,21,2,4,3,3,4,1,4.17,Oceania,Australia,byron-bay-australia
+1,2,3,2,3,3,30,2,3,3,3,4,4,3.97,North America,United States,colorado-springs-co-united-states
+2,2,3,3,3,3,33,2,3,3,3,4,4,4.34,North America,United States,jacksonville-fl-united-states
+3,3,2,3,3,2,40,1,3,3,3,4,4,4.17,Europe,Slovakia,kosice-slovakia
+1,3,3,3,3,4,44,3,3,3,4,4,1,4.15,Europe,Spain,marbella-spain
+3,1,2,1,1,1,14,1,1,3,2,3,1,3.82,Asia,India,mcleod-ganj-india
+3,1,3,3,1,1,5,2,1,2,3,3,4,3.75,Asia,India,amritsar-india
+3,1,2,2,1,1,8,2,1,2,2,3,4,3.16,Asia,India,lucknow-india
+3,1,3,4,1,1,4,2,1,2,3,3,4,3.84,Asia,India,jodhpur-india
+3,1,3,2,1,1,10,2,1,3,2,3,4,3.61,Asia,India,hyderabad-india
+2,2,2,3,2,4,22,2,3,3,4,4,4,3.03,Asia,Japan,sapporo-japan
+2,3,3,2,4,3,38,1,4,3,3,4,4,4.03,North America,Canada,quebec-city-canada
+3,2,3,3,2,2,51,3,3,3,3,4,4,4.55,Europe,Romania,timisoara-romania
+1,2,2,2,2,4,41,2,3,3,3,4,1,3.7,Europe,Italy,amalfi-italy
+3,2,2,3,3,4,26,2,2,3,3,4,4,4.39,Asia,Taiwan,tainan-taiwan
+2,2,2,2,2,4,15,1,3,3,4,4,4,2.86,Asia,Japan,naha-okinawa-japan
+1,2,2,2,3,4,52,2,3,3,3,4,2,4.24,Europe,France,strasbourg-france
+3,3,4,2,2,4,40,2,4,3,4,4,1,4.38,Europe,Portugal,funchal-madeira-portugal
+3,1,3,2,3,1,9,2,2,3,1,1,2,3.64,Latin America,Brazil,manaus-brazil
+1,3,2,3,2,3,10,3,2,3,3,4,4,3.6,Europe,Cyprus,nicosia-cyprus
+3,1,3,4,3,1,13,2,2,3,1,1,4,3.27,Latin America,Brazil,porto-alegre-brazil
+1,1,2,3,2,4,14,3,3,3,3,4,4,3.57,Europe,Greece,mikonos-greece
+3,1,2,1,3,1,11,3,2,3,1,1,4,3.04,Latin America,Brazil,goiania-brazil
+2,1,4,4,2,3,6,3,1,3,2,4,4,3.82,Asia,Philippines,makati-philippines
+3,2,2,2,2,3,42,2,3,3,4,4,4,3.88,Europe,Poland,lublin-poland
+3,1,2,2,3,3,17,1,2,3,2,1,1,3.59,Asia,Malaysia,ipoh-malaysia
+3,1,2,1,2,2,17,1,2,3,3,3,4,3.53,Asia,Indonesia,mataram-lombok-indonesia
+3,2,4,2,3,4,29,2,2,3,3,4,4,4.32,Asia,Taiwan,kaohsiung-taiwan
+3,1,3,3,1,1,9,1,1,3,2,3,4,3.06,Asia,India,ahmedabad-india
+3,1,2,1,2,1,5,1,2,2,3,3,4,3.46,Asia,China,shaoxing-china
+3,3,2,2,1,1,3,1,2,3,2,3,4,3.45,Africa,Namibia,windhoek-namibia
+3,1,2,1,1,1.419868987,2,1,1,3,2,1,4,2.92,Africa,Zambia,lusaka-zambia
+2,1,3,2,1,1.534928383,2,1,1,3,2,3,4,3.37,Africa,Mozambique,maputo-mozambique
+3,1,2,1,2,1,4,2,2,2,3,3,1,3.34,Asia,China,hohhot-china
+3,1,1,1,2,1,5,1,2,3,3,3,4,3.52,Asia,China,zhangjiakou-china
+3,1,2,1,2,1,4,2,2,2,3,3,2,3.52,Asia,China,huaian-china
+3,1,1,1,2,1,4,2,2,2,3,3,4,4.09,Asia,China,nanchang-china
+3,1,2,1,2,1,4,2,2,2,3,3,1,3.52,Asia,China,changsha-china
+3,3,3,4,3,4,36,3,3,3,4,4,4,4.08,Europe,Spain,tenerife-canary-islands-spain
+3,2,2,2,2,2.705674038,29,3,2,3,3,4,4,4.36,Europe,Serbia,novi-sad-serbia
+2,3,4,4,2,4,35,2,4,3,4,4,4,3.89,Europe,Portugal,aveiro-portugal
+3,1,3,2,1,1,25,1,2,3,3,3,4,3.97,Asia,Vietnam,mui-ne-vietnam
+3,2,3,2,1,3,12,3,2,3,3,4,4,4.31,Europe,Albania,tirana-albania
+3,1,3,3,1,1,2,3,1,2,2,3,1,3.32,Africa,Cameroon,douala-cameroon
+3,1,1,1,1,1,1,1,1,2,1,3,4,3.08,Africa,Cameroon,yaounde-cameroon
+1,2,3,3,3,3,29,3,3,3,3,4,4,4.37,North America,United States,flagstaff-az-united-states
+2,2,2,3,3,3,52,3,3,3,3,4,2,4.4,North America,United States,albuquerque-nm-united-states
+1,2,3,2,3,2,16,2,3,3,4,4,2,3.83,Europe,United Kingdom,portsmouth-united-kingdom
+3,1,3,1,2,1,33,3,1,3,1,4,4,4.26,Europe,Russia,krasnodar-russia
+2,2,3,2,2,4,10,2,3,3,3,4,4,4.34,Europe,Italy,trieste-italy
+3,1,3,3,2,1,14,2,1,3,3,4,4,4.37,Europe,Turkey,izmir-turkey
+3,1,3,3,1,2,11,2,1,3,3,4,1,3.88,Asia,Sri Lanka,kandy-sri-lanka
+3,1,3,2,2,1,3,2,1,2,2,4,1,3.28,Asia,Uzbekistan,tashkent-uzbekistan
+3,1,2,2,2,2,11,1,2,3,3,3,1,3.82,Asia,Kazakhstan,almaty-kazakhstan
+3,1,2,2,3,2,6,2,2,3,1,4,4,3.31,Latin America,Mexico,puebla-mexico
+3,2,2,2,3,2,6,2,3,3,2,4,1,3.62,Latin America,Argentina,rosario-argentina
+1,3,4,2,4,4,48,3,4,3,4,4,4,4.34,Europe,Switzerland,lugano-switzerland
+3,1,1,2,1,1,3,1,1,3,2,3,1,3.49,Asia,India,kannur-india
+1,2,3,3,3,3,36,2,3,3,3,4,4,3.96,North America,United States,milwaukee-wi-united-states
+1,4,2,3,4,4,36,2,4,3,4,4,4,4.24,Europe,Netherlands,tilburg-netherlands
+3,2,1,2,2,4,16,1,3,3,4,4,2,3.03,Asia,Japan,sendai-japan
+3,1,2,2,1,2,5,1,1,2,2,1,1,3.42,Middle East,Iran,shiraz-iran
+3,1,2,1,1,2,4,1,1,2,2,1,1,2.7,Middle East,Iran,isfahan-iran
+3,1,3,1,2.257908523,3,15,1,2,3,3,4,2,3.98,Asia,Brunei,bandar-seri-begawan-brunei
+3,1,4,2,2,1,10,2,1,3,2,4,4,3.83,Europe,Turkey,bodrum-turkey
+3,1,3,2,2,3,4,1,2,3,2,3,4,3.86,Africa,Morocco,tangier-morocco
+1,1,1,1,3,3,8,1,2,2,2,1,2,3.27,Middle East,Saudi Arabia,jeddah-saudi-arabia
+3,1,2,2,1,1,4,1,1,3,2,3,4,3.63,Asia,India,bhubaneswar-india
+3,1,3,2,1,1,7,2,1,3,3,3,4,3.89,Asia,India,visakhapatnam-india
+3,2,1,2,2,4,17,2,3,3,3,4,1,3.55,Asia,Japan,okayama-japan
+1,4,3,3,4,3,23,3,4,3,4,4,4,4.14,Europe,Denmark,aarhus-denmark
+3,2,1,1,1,0.940565973,1,1,1,2,2,3,1,2.71,Africa,Malawi,lilongwe-malawi
+4,1,3,1,1,1,1,1,1,3,1,1,1,4.08,Africa,Sudan,khartoum-sudan
+2,1,1,1,2,2,3,1,1,3,2,1,2,3.18,Africa,Libya,benghazi-libya
+3,1,3,1,2,2,4,1,1,3,2,1,1,3.73,Africa,Libya,tripoli-libya
+3,1,3,4,1,2,5,2,2,3,2,3,4,3.78,Africa,Tunisia,tunis-tunisia
+4,1,2,2,1,1,4,1,1,3,2,3,1,3.61,Asia,India,moradabad-india
+3,1,1,2,1,1,3,1,1,2,2,3,1,3.17,Asia,India,guwahati-india
+3,1,2,1,2,1,19,2,1,3,1,4,4,3.85,Asia,Russia,novosibirsk-russia
+3,1,2,2,1,1,1,3,1,3,2,3,1,3.77,Asia,Tajikistan,dushanbe-tajikistan
+2,2,4,3,2,2,55,2,3,3,3,4,4,4.48,Europe,Romania,cluj-romania
+3,1,2,2,2,1,11,1,1,3,2,4,2,3.21,Europe,Turkey,bursa-turkey
+3,1,2,2,1,1,4,1,1,2,2,3,1,3.36,Asia,India,kanpur-india
+1,2,4,3,2,4,10,1,3,3,3,4,4,3.82,Europe,Italy,genoa-italy
+3,1,3,2,1,1,300,2,3,3,3,4,4,4.42,Europe,Bulgaria,plovdiv-bulgaria
+2,3,2,3,1,1,7,3,2,3,2,1,2,3.58,Africa,Ghana,accra-ghana
+2,2,3,2,3,3,32,1,3,3,3,4,4,3.97,North America,United States,indianapolis-in-united-states
+1,2,4,3,2,4,24,2,3,3,3,4,4,4.08,Europe,Italy,modena-italy
+2,2,3,2,2.395819184,2.477620334,22,1,2,3,3,4,1,3.8,Latin America,Aruba,oranjestad-aruba
+1,2,3,2,2.347929917,3,32,1,3,3,1,4,4,3.44,Latin America,Barbados,bridgetown-barbados
+1,2,3,1,3,3,35,1,3,3,3,4,4,4.26,North America,United States,hartford-ct-united-states
+3,2,3,1,2,3,11,1,3,3,4,4,4,4.27,Europe,Croatia,rijeka-croatia
+2,2,2,2,3,4,24,2,3,3,3,4,2,3.88,Europe,France,annecy-france
+1,4,3,3,4,3,23,3,4,3,3,4,4,4.297698772,Europe,Finland,tampere-finland
+3,1,1,1,2,1,44,1,2,2,3,3,2,3.37,Asia,China,urumqi-china
+3,1,4,2,2,1.952237066,13,2,3,3,3,4,4,3.18,Europe,Montenegro,bar-montenegro
+3,1,3,2,2,1,20,1,1,3,1,4,4,3.83,Europe,Russia,saratov-russia
+2,3,4,4,2,3,11,2,2,3,3,4,1,4.43,Europe,Cyprus,limassol-cyprus
+2,3,2,2,4,3,38,2,4,3,3,4,1,4.3,North America,Canada,guelph-canada
+3,1,1,1,3,3,6,1,2,1,2,1,4,2.84,Middle East,Saudi Arabia,dammam-saudi-arabia
+2,2,1,3,2,4,18,2,3,3,4,4,4,3.69,Asia,Japan,nagoya-japan
+1,3,4,1,4,3,19,3,4,3,4,4,4,4.21,Oceania,Australia,darwin-australia
+1,3,3,2,3,3,50,2,4,3,4,4,4,3.81,Europe,Germany,hannover-germany
+2,2,3,2,3,3,22,1,3,3,3,4,4,4.13,North America,United States,norfolk-va-united-states
+1,4,4,3,4,3,29,3,4,3,3,4,4,4.19,Europe,Finland,espoo-finland
+3,2,3,2,2,3,29,2,3,3,4,4,4,4.56,Asia,South Korea,daejeon-south-korea
+2,2,3,2,2,3,28,2,3,3,4,4,1,4.42,Asia,South Korea,gwangju-south-korea
+2,2,3,1,3,3,21,3,3,4,3,4,4,4.04,North America,United States,provo-ut-united-states
+3,1,2,2,2,2,5,1,2,3,3,3,4,4.02,Asia,Indonesia,sanur-bali-indonesia
+3,1,2,1,2,1,9,1,2,2,3,3,4,3.49,Asia,China,yiwu-china
+1,2,4,2,3,3,23,2,3,3,3,4,4,3.99,North America,United States,columbus-oh-united-states
+1,4,3,1,4,4,45,1,4,3,4,4,4,4.18,Europe,Netherlands,zwolle-netherlands
+2,3,4,2,4,3,38,2,4,3,3,4,4,4.24,North America,Canada,moncton-canada
+2,3,4,1,4,3,14,1,4,3,3,4,4,3.91,North America,Canada,edmonton-canada
+3,1,2,1,2,1,22,1,1,3,1,4,4,4.02,Europe,Russia,kaliningrad-russia
+1,2,2,3,3,3,20,2,3,3,4,4,1,4.12,North America,United States,riverside-ca-united-states
+3,1,2,1,1.847401188,1.939022758,1,1,2,3,2,4,2,3.44,Oceania,East Timor,dili-east-timor
+1,2,2,1,3,2,29,2,3,3,4,4,4,3.73,Europe,United Kingdom,coventry-united-kingdom
+3,1,3,2,1,1.11353721,5,3,1,3,2,1,4,3.01,Africa,Nigeria,lagos-nigeria
+3,1,4,2,3,1,12,1,2,3,1,1,4,3.82,Latin America,Brazil,brasilia-brazil
+1,2,2,3,3,3,23,2,3,3,3,4,1,4.27,North America,United States,providence-ri-united-states
+1,4,2,1,4,4,56,1,4,3,4,4,1,4.05,Europe,Netherlands,arnhem-netherlands
+1,3,2,3,3,3,31,2,4,3,4,4,1,4.22,Europe,Germany,dortmund-germany
+3,3,2,2,3,3,56,2,4,3,4,4,1,3.83,Europe,Germany,hagen-germany
+3,2,2,1,2,3,31,1,3,3,3,4,1,3.54,Europe,Poland,rzeszow-poland
+2,2,4,2,3,3,29,2,3,3,3,4,4,4.02,North America,United States,fargo-nd-united-states
+2,3,2,2,4,3,38,2,4,3,3,4,4,4.23,North America,Canada,grande-prairie-canada
+2,3,2,2,4,3,38,1,4,3,3,4,4,4.27,North America,Canada,nanaimo-canada
+2,3,3,3,4,3,38,3,4,3,3,4,4,4.48,North America,Canada,abbotsford-canada
+2,2,3,2,3,2,13,1,3,3,4,4,4,3.84,Europe,United Kingdom,hull-united-kingdom
+3,1,1,1,1,1,3,1,1,1,1,1,4,2.26,Asia,Afghanistan,kabul-afghanistan
+3,1,2,3,1.643960481,1,2,1,1,3,2,4,4,3.03,Asia,North Korea,kaesong-north-korea
+3,2,4,2,2,1,7,2,2,3,2,4,4,3.86,Latin America,Peru,arequipa-peru
+3,1,1,1,2,1,10,1,1,3,1,4,4,3.49,Europe,Russia,ulyanovsk-russia
+3,1,2,1,2,1,18,1,1,3,1,4,4,3.55,Europe,Russia,chelyabinsk-russia
+3,1,2,1,2,2,9,1,2,3,3,3,2,4.02,Asia,Kazakhstan,astana-kazakhstan
+2,3,3,2,3,3,35,3,4,3,4,4,4,4.26,Europe,Germany,aachen-germany
+2,2,4,2,2,1.93670567,34,2,2,3,3,4,4,4.07,Europe,Serbia,nis-serbia
+3,1,2,1,2,1,7,1,2,2,3,3,1,3.77,Asia,China,ningbo-china
+1,4,2,2,4,4,63,1,4,3,4,4,2,4.06,Europe,Netherlands,leeuwarden-netherlands
+3,1,2,1,1,1,0,3,1,3,2,4,4,4.02,Europe,Ukraine,kharkiv-ukraine
+2,1,2,1,2,1,33,3,1,3,1,4,4,3.28,Europe,Russia,nizhny-russia
+3,1,1,2,2,1,21,2,1,3,1,4,4,3.63,Europe,Russia,yekaterinburg-russia
+3,2,2,3,1,1,3,3,2,3,1,1,4,4.2,Africa,South Africa,pretoria-south-africa
+1,1,2,3,4,3,22,2,2,3,3,4,4,4.04,Middle East,Israel,haifa-israel
+2,3,2,2,2,2,28,1,3,3,2,4,1,3.82,Europe,Lithuania,klaipeda-lithuania
+1,2,2,2,3,3,40,2,3,3,3,4,1,3.82,North America,United States,monterey-ca-united-states
+3,3,4,2,2,4,37,2,4,3,4,4,4,4.41,Europe,Portugal,braga-portugal
+1,2,3,2,3.192174414,3.228194501,13,3,2,3,3,4,4,4.219548605,North America,Bermuda,hamilton-bermuda
+3,3,2,4,2,3,9,3,2,3,1,4,1,3.704686217,Latin America,Jamaica,kingston-jamaica
+1,1,4,3,1,1.399997002,3,2,1,3,1,1,4,4.27,Africa,Angola,luanda-angola
+2,2,3,3,2,4,13,2,3,3,3,4,4,4.57,Europe,Italy,padova-italy
+3,1,1,1,2,1,6,1,2,2,3,3,4,3.44,Asia,China,wuxi-china
+3,2,3,2,1,1,4,1,2,3,1,1,4,3.52,Africa,South Africa,durban-south-africa
+3,2,4,2,2,3,13,2,2,3,1,1,2,4.06,Latin America,Dominican Republic,jarabacoa-dominican-republic
+1,3,4,4,4,3,38,3,4,3,3,4,4,4.29,North America,Canada,lethbridge-canada
+2,3,2,2,3,3,30,2,4,3,4,4,1,3.77,Europe,Germany,erlangen-germany
+2,2,2,2,3,3,42,2,3,4,3,4,4,4.37,North America,United States,oklahoma-city-ok-united-states
+1,3,3,3,2.274301167,1,7,2,2,3,2,3,2,3.68,Africa,Cape Verde,praia-cape-verde
+2,3,3,2,3,4,43,2,3,3,4,4,4,4.1,Europe,Spain,a-coruna-spain
+1,2,2,2,2,4,24,3,3,3,4,4,1,4.25,Europe,Italy,cagliari-sardinia-italy
+3,2,3,1,2,3,12,1,3,3,3,4,4,3.93,Europe,Croatia,osijek-croatia
+3,1,2,2,3,1,11,2,2,3,1,1,1,3.74,Latin America,Brazil,sao-jose-dos-campos-brazil
+2,2,2,4,2,4,15,3,3,3,4,4,2,3.15,Asia,Japan,okinawa-okinawa-japan
+1,1,3,2,2,4,11,1,3,3,3,4,4,3.66,Europe,Greece,chania-crete-greece
+1,2,4,1,2.974276593,3.144511346,9,1,2,3,3,4,1,3.95,Latin America,Cayman Islands,george-town-cayman-islands
+1,3,2,2,3,4,22,2,3,3,4,4,2,3.7,Europe,Spain,arrecife-lanzarote-spain
+2,1,2,1,1,0.753495396,2,2,1,2,1,1,4,2.87,Africa,Angola,huambo-angola
+1,4,3,2,4,3,21,2,4,3,3,4,4,4.29,Europe,Finland,turku-finland
+3,1,4,3,3,2,16,1,2,3,2,4,4,4.13,Latin America,Mexico,queretaro-mexico
+3,2,2,1,2,3,41,2,3,3,4,4,4,4.36,Europe,Poland,szczecin-poland
+3,2,4,1,2.35195208,2,26,3,2,3,3,4,4,3.23,Europe,Bosnia,sarajevo-bosnia
+3,1,1,2,2,2,3,1,1,3,2,3,4,3.48,Africa,Algeria,algiers-algeria
+2,2,4,2,3,3,25,1,3,3,3,4,4,4.22,North America,United States,bellingham-wa-united-states
+3,1,2,1,1,1,21,2,1,3,2,4,4,3.65,Europe,Ukraine,dnipro-ukraine
+3,1,2,2,2,1,7,2,2,2,3,3,4,4.11,Asia,China,qingdao-china
+3,1,2,3,3,3,5,1,3,3,3,4,2,4.18,Middle East,Kuwait,kuwait-city-kuwait
+3,3,4,1,2,2,31,1,3,3,3,4,4,4.32,Europe,Estonia,tartu-estonia
+2,1,2,1,1,1,1,1,1,2,2,3,4,3.81,Africa,Guinea,conakry-guinea
+3,1,1,4,1,1,10,1,1,3,2,3,4,3.57,Asia,India,gurgaon-india
+3,1,2,1,2,1,3,1,1,1,1,3,4,3.02,Asia,Pakistan,karachi-pakistan
+3,1,1,1,2,1,10,1,1,3,1,4,1,3.61,Europe,Russia,rostov-on-don-russia
+1,4,4,1,4,3,29,3,4,3,3,4,4,4.04,Europe,Finland,jyvaskyla-finland
+3,1,2,2,2,2,9,2,2,3,3,3,1,3.43,Asia,Indonesia,makassar-indonesia
+3,1,1,2,1,1,3,1,1,3,2,3,1,3.52,Asia,India,aurangabad-india
+3,2,2,2,2,2,49,2,3,3,3,4,4,3.62,Europe,Romania,iasi-romania
+1,4,3,2,4,4,52,2,4,3,4,4,4,4.12,Europe,Norway,aalesund-norway
+3,2,2,3,2,4,36,2,3,3,4,4,4,3.1,Asia,Japan,hamamatsu-japan
+2,2,1,2,1,1,3,1,1,3,1,4,1,2.7,Latin America,Haiti,port-au-prince-haiti
+1,2,4,2,3,3,41,2,3,3,3,4,4,4.5,North America,United States,chattanooga-tn-united-states
+3,1,3,1,2.468651293,1.925416556,6,3,2,3,3,4,1,3.63,Middle East,Palestine,ramallah-palestine
+2,2,3,1,1.983100227,1.635865802,15,1,2,3,1,4,4,3.48,Middle East,Kurdistan,erbil-kurdistan
+3,1,1,1,1,1,1,1,1,2,1,1,1,2.74,Middle East,Yemen,sanaa-yemen
+3,1,2,1,2,1,19,1,1,3,1,4,1,3.45,Europe,Russia,ufa-russia
+3,1,2,3,1,1,7,1,1,3,2,3,4,3.12,Asia,India,nagpur-india
+3,1,2,2,1,1,3,1,1,3,2,3,2,4.02,Asia,India,thiruvananthapuram-india
+1,2,2,3,3,3,23,3,3,3,3,4,1,3.96,North America,United States,mountain-view-ca-united-states
+2,2,1,1,1,0.873182902,2,1,1,2,2,1,1,2.81,Africa,Sierra Leone,freetown-sierra-leone
+2,2,3,2,3,3,33,1,3,3,3,4,4,4.52,North America,United States,knoxville-tn-united-states
+3,2,3,1,2.317560033,2,14,2,2,3,3,4,4,3.77,Europe,Bosnia,banja-luka-bosnia
+3,1,3,2,1,1,26,1,3,3,3,4,4,4.33,Europe,Bulgaria,burgas-bulgaria
+3,2,2,3,3,2,11,1,3,3,2,4,4,3.62,Latin America,Argentina,mar-del-plata-argentina
+1,2,2,3,3,3,23,3,3,3,3,4,1,4.32,North America,United States,virginia-beach-va-united-states
+3,1,2,2,3,3,6,3,1,3,1,3,2,4.16,Latin America,Colombia,bucaramanga-colombia
+2,2,4,2,3,2,29,3,3,3,4,4,4,4.03,Europe,United Kingdom,bournemouth-united-kingdom
+3,1,1,1,2,1,4,1,2,2,3,3,4,3.34,Asia,China,xining-china
+3,1,2,2,3,3,10,1,2,3,2,1,2,3.51,Middle East,Saudi Arabia,mecca-saudi-arabia
+2,3,2,2,3,3,37,2,4,3,4,4,1,3.89,Europe,Germany,bielefeld-germany
+1,1,4,1,2,4,13,1,3,3,3,4,4,4.3,Europe,Greece,rethymno-greece
+3,1,3,1,2,1,19,1,1,3,1,4,4,3.37,Asia,Russia,tomsk-russia
+3,1,3,2,2,2.237264313,0,1,2,3,3,4,4,3.91,Europe,Kosovo,pristina-kosovo
+3,1,3,1,2,1,26,1,1,3,1,4,4,3.84,Europe,Russia,samara-russia
+1,4,2,3,4,4,45,2,4,3,4,4,4,4.34,Europe,Netherlands,breda-netherlands
+1,4,3,2,4,3,25,3,4,3,4,4,4,4.27,Europe,Denmark,aalborg-denmark
+2,1,2,2,1,1,2,1,1,3,2,4,1,2.74,Africa,Zimbabwe,harare-zimbabwe
+3,1,2,3,2,2,7,2,2,3,3,3,1,3.86,Asia,Indonesia,malang-east-java-indonesia
+2,1,2,1,3,1,11,2,2,3,1,1,4,3.33,Latin America,Brazil,anapolis-brazil
+2,2,2,3,2,4,19,3,3,3,3,4,4,4.49,Europe,Italy,treviso-italy
+2,3,2,2,3,3,49,2,4,3,4,4,1,3.73,Europe,Germany,hof-germany
+2,3,2,2,2.035491544,1,2,1,2,3,3,4,1,3.38,Oceania,Samoa,apia-samoa
+1,2,4,2,2.931094502,2.917500705,5,1,2,3,3,4,4,3.82,Latin America,British Virgin Islands,road-town-british-virgin-islands
+3,1,1,2,3,2,14,2,2,3,1,4,2,3.45,Latin America,Mexico,toluca-mexico
+1,2,2,2,3,3,58,2,3,3,3,4,1,4.05,North America,United States,salem-ma-united-states
+1,2,1,2,2.896538217,2.634156012,3,1,2,3,3,4,1,3.3,Oceania,New Caledonia,noumea-new-caledonia
+2,2,3,2,3,3,25,3,3,3,3,4,1,4.28,North America,United States,cincinnati-oh-united-states
+3,1,2,2,1,1,12,3,1,2,2,3,4,3.528291296,Asia,India,noida-india
+4,1,2,2,1,1,3,1,1,3,2,3,4,3.9,Asia,India,bareilly-india
+3,1,3,2,1,1,4,1,1,2,2,3,4,3.15,Asia,India,meerut-india
+3,1,2,1,2,1,4,2,2,3,3,3,4,3.56,Asia,China,fuzhou-china
+3,1,2,1,2,1,6,1,2,2,3,3,4,3.45,Asia,China,shenyang-china
+3,1,1,1,1.587269886,1,2,1,1,2,2,4,4,2.73,Asia,North Korea,sinuiju-north-korea
+3,1,2,1,2,1,6,2,2,2,3,3,1,3.52,Asia,China,guiyang-china
+3,1,2,2,3,3,2,1,2,3,3,1,4,4.23,Asia,Malaysia,penang-malaysia
+3,1,1,1,2,1,9,1,2,2,3,3,1,3.47,Asia,China,wuhu-china
+2,3,4,1,4,3,26,2,4,3,4,4,4,4.25,Oceania,Australia,wollongong-australia
+3,1,2,2,1,1,8,1,1,3,2,3,1,3.93,Asia,India,kollam-india
+3,1,2,2,1,1,7,1,1,3,2,3,1,3.68,Asia,India,madurai-india
+3,2,2,1,2,2,6,1,1,3,1,3,4,3.01,Latin America,Nicaragua,leon-nicaragua
+2,1,2,2,2,4,10,1,3,3,3,4,4,3.78,Europe,Greece,patras-greece
+1,4,2,2,4,3,25,1,4,3,3,4,4,4.31,Europe,Finland,oulu-finland
+1,2,3,3,3,2,21,2,3,3,4,4,2,4.1,Europe,United Kingdom,luton-united-kingdom
+3,1,3,2,3,1,20,2,2,3,1,1,4,3.55,Latin America,Brazil,itapema-brazil
+2,2,2,3,2,4,20,2,3,3,4,4,2,3.2,Asia,Japan,yokohama-japan
+3,1,2,1,2,2,8,1,2,3,3,3,4,3.53,Asia,Indonesia,surakarta-indonesia
+3,3,3,2,3,3,50,1,4,3,4,4,4,3.49,Europe,Germany,jena-germany
+1,3,3,1,4,3,58,2,4,3,3,4,2,3.53,North America,Canada,fort-mcmurray-canada
+3,1,3,2,3,1,15,1,2,3,1,1,4,3.89,Latin America,Brazil,campinas-brazil
+2,2,4,2,3,3,36,1,3,3,3,4,4,4.4,North America,United States,chico-ca-united-states

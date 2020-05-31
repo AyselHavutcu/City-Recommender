@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html >
+<!--From https://codepen.io/frytyler/pen/EGdtg-->
+<head>
+  <meta charset="UTF-8">
+  <title>ML API</title>
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  
+</head>
+
+<body>
+
+
+  
+ <div class="container">
+   <div class="row">
+  <div style=" width:40%; height:50%; margin-top:0%; display:inline-block;" class="col-md-6">
+	<h5>Travel Roulette: What Should I go?</h5>
+  
+<h6>If you're wondering  which destination  you should go next, use city randomizer below.</h6>
+  
+     <!-- Main Input For Receiving Query to our ML -->
+   <form action="{{ url_for('predict')}}"method="post" >
+        <div style="display:inline-block;">
+       <input  name="cost_of_living" placeholder="cost_of_living" required="required" list="rates"/>
+       <datalist id="rates">
+          <option value="1">
+          <option value="2">
+          <option value="3">
+          <option value="4">
+          
+        </datalist>
+      </div>
+      <div style="display:inline-block;">
+       <input list="rates" name="freedom_of_speech" placeholder="freedom_of_speech" required="required" />
+       <datalist id="rates">
+          <option value="1">
+          <option value="2">
+          <option value="3">
+          <option value="4">
+          
+        </datalist>
+      </div>
+      <div style="display:inline-block;">
+        <input list="rates" name="friendly_to_foreigners" placeholder="friendly_to_foreigners" required="required" />
+        <datalist id="rates">
+            <option value="1">
+            <option value="2">
+            <option value="3">
+            <option value="4">
+            
+          </datalist>
+      </div>
+      <div style="display:inline-block;">
+        <input list="rates" name="fun" placeholder="fun" required="required" />
+        <datalist id="rates">
+            <option value="1">
+            <option value="2">
+            <option value="3">
+            <option value="4">
+            
+          </datalist>
+      </div>
+      <div style="display:inline-block;">
+        <input list="rates" name="happiness" placeholder="happiness" required="required" />
+        <datalist id="rates">
+            <option value="1">
+            <option value="2">
+            <option value="3">
+            <option value="4">
+            
+          </datalist>
+      </div>
+      <div style="display:inline-block;">
+        <input list="rates" name="healthcare" placeholder="healthcare" required="required" />
+        <datalist id="rates">
+            <option value="1">
+            <option value="2">
+            <option value="3">
+            <option value="4">
+            
+          </datalist>
+      </div>
+      <div style="display:inline-block;">
+        <input type="text" name="internet" placeholder="internet" onclick="alert('You must fill this with a number between 0 and 100!');" required="required" />
+      </div>
+      <div style="display:inline-block;">
+        <input list="rates" name="nightlife" placeholder="nightlife" required="required" />
+        <datalist id="rates">
+            <option value="1">
+            <option value="2">
+            <option value="3">
+            <option value="4">
+            
+          </datalist>
+      </div>
+      <div style="display:inline-block;">
+        <input list="rates" name="peace" placeholder="peace" required="required" />
+        <datalist id="rates">
+            <option value="1">
+            <option value="2">
+            <option value="3">
+            <option value="4">
+            
+          </datalist>
+      </div>
+      <div style="display:inline-block;">
+        <input list="rates" name="quality_of_life" placeholder="quality_of_life" required="required" />
+        <datalist id="rates">
+            <option value="1">
+            <option value="2">
+            <option value="3">
+            <option value="4">
+            
+          </datalist>
+        </div>
+        <div style="display:inline-block;">
+        <input list="rates" name="safety" placeholder="safety" required="required" />
+        <datalist id="rates">
+            <option value="1">
+            <option value="2">
+            <option value="3">
+            <option value="4">
+            
+          </datalist>
+        </div>
+        <div style="display:inline-block;">
+        <input list="rates" name="traffic_safety" placeholder="traffic_safety" required="required" />
+        <datalist id="rates">
+            <option value="1">
+            <option value="2">
+            <option value="3">
+            <option value="4">
+            
+          </datalist>
+        </div>
+        <div style="display:inline-block;">
+        <input list="rates" name="walkability" placeholder="walkability" required="required" />
+        <datalist id="rates">
+            <option value="1">
+            <option value="2">
+            <option value="3">
+            <option value="4">
+            
+          </datalist>
+     
+     </div>
+     <button type="submit" class="btn btn-primary btn-block btn-small" style="width:20%; height:20%; margin-left:40%;">Spin</button>
+     
+     
+    <br/>
+    <br/>
+     <div style="background-color:rgb(155, 151, 160); width:50%; height:10%; text-align: center; margin-left:25%; border-radius:5px 5px 5px 5px;">
+      {%if prediction_text  %}
+   
+      {{ prediction_text }}
+   
+      {% endif %}
+     </div>
+   <br/>
+   
+   <a  href="https://www.kayak.com.tr/" class="btn btn-primary btn-block btn-small" style="width:20%; height:20%; margin-left:40%;">Book a Flight</a>
+    </form>
+</div>
+    <div style="background-color:rgb(155, 151, 160);  white-space:pre-wrap; width:40%; min-height:100%; display:inline-block;  border:10px 10px 10px 10px; font-size:12px;  overflow-y:scroll;" class="col-md-6">
+ <p>
+      {%for p in city_information %}
+     
+           {{p}}
+       {%endfor%}
+      </p>
+    </div>
+   </div>
+  </div>
+ 
+</body>
+</html>
